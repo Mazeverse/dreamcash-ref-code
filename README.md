@@ -13,3 +13,7 @@ A simple English landing page for sharing Dreamcash referral code **RROZLN**.
 ## Deploy
 
 Upload this repository to GitHub and connect it to Cloudflare Pages.
+
+
+Live URL: https://dreamcash-ref-code.pages.dev/
+Google Search Console verification meta tag included.
